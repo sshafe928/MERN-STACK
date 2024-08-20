@@ -1,0 +1,6 @@
+{
+    "watch": ["mern-tracker/backend"],
+    "ext": "js,json",
+    "ignore": ["mern-tracker/backend/node_modules"],
+    "exec": "node mern-tracker/backend/server.js"
+  }
